@@ -38,3 +38,7 @@ print(x[0:4])   # Indo: ambil x dari index 0-4, 4 tidak ikut
 # x[start:stop:skip]
 print(x[0::2])  # Idnsa
 print(x[1::2])  # noei
+
+# convert uppercase / lowercase
+print(x.upper())    # INDONESIA: uppercase
+print(x.lower())    # indonesia: lowercase
