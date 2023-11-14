@@ -17,6 +17,6 @@ print(list(a))
 b = range(0,10,2)
 print(list(b))
 
-# show angka 1-10
+# show angka 1-10000
 for i in range(1,10001,1):
     print(i)
