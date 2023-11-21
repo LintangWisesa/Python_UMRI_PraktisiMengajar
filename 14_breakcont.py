@@ -10,3 +10,7 @@ for i in range(1,10001,1):
     if i == 9998:
         continue
     print(i)
+
+# Coba buat script python untuk menghitung 
+# MEAN, MEDIAN, MODUS dari sebuah list numeric
+x = [1, 2, 4, 5, 12, 1, 99, 120, 6, 5, 8, 45]
