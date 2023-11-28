@@ -25,4 +25,4 @@ class CetakanJelly():
 a = CetakanJelly()
 print(a.warna, a.rasa, a.addTopping())
 b = CetakanJelly()
-print(a.warna, a.rasa, a.addTopping())
+print(b.warna, b.rasa, b.addTopping())
